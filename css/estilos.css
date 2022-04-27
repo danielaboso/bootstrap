@@ -1,0 +1,16 @@
+.bg-green{
+    background-color: rgb(81, 177, 129);
+}
+.bg-orange{
+    background-color :#db5534b0;
+}
+
+.pie {
+    background-color: #389d89;
+    padding: 5% 0;
+}
+.lista {
+    display: flex;
+    justify-content: end;
+    list-style: none;
+}
